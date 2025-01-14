@@ -1,0 +1,21 @@
+2025-01-14 01:43:16,801 - INFO - Iniciando o processo de extração de dados.
+2025-01-14 01:43:16,801 - INFO - WebDriver configurado com diretório de download em 'faturas'.
+2025-01-14 01:43:20,188 - INFO - Acessando o site: https://rpachallengeocr.azurewebsites.net
+2025-01-14 01:43:20,189 - INFO - Pasta 'faturas' criada com sucesso.
+2025-01-14 01:43:20,202 - INFO - Tabela carregada com 4 linhas encontradas.
+2025-01-14 01:43:20,202 - INFO - Processando linha 1...
+2025-01-14 01:43:20,241 - INFO - Tentando baixar fatura: ID=x1j8n9lfkttxqa9zfehcf, Vencimento=30-12-2024, URL=https://rpachallengeocr.azurewebsites.net/invoices/8.jpg
+2025-01-14 01:43:21,423 - INFO - Arquivo baixado com sucesso: faturas\x1j8n9lfkttxqa9zfehcf.jpeg
+2025-01-14 01:43:21,423 - INFO - Linha 1 processada: ID=x1j8n9lfkttxqa9zfehcf, Status=Sucesso
+2025-01-14 01:43:21,423 - INFO - Processando linha 2...
+2025-01-14 01:43:21,447 - INFO - Tentando baixar fatura: ID=spvqr32olh33x5xume4ti, Vencimento=02-12-2024, URL=https://rpachallengeocr.azurewebsites.net/invoices/12.jpg
+2025-01-14 01:43:22,643 - INFO - Arquivo baixado com sucesso: faturas\spvqr32olh33x5xume4ti.jpeg
+2025-01-14 01:43:22,643 - INFO - Linha 2 processada: ID=spvqr32olh33x5xume4ti, Status=Sucesso
+2025-01-14 01:43:22,643 - INFO - Processando linha 3...
+2025-01-14 01:43:22,666 - INFO - Tentando baixar fatura: ID=lx17jb6ytk0znvvppg19oq, Vencimento=09-01-2025, URL=https://rpachallengeocr.azurewebsites.net/invoices/10.jpg
+2025-01-14 01:43:23,851 - INFO - Arquivo baixado com sucesso: faturas\lx17jb6ytk0znvvppg19oq.jpeg
+2025-01-14 01:43:23,851 - INFO - Linha 3 processada: ID=lx17jb6ytk0znvvppg19oq, Status=Sucesso
+2025-01-14 01:43:23,851 - INFO - Processando linha 4...
+2025-01-14 01:43:23,874 - INFO - Linha 4 processada: ID=fg2aot9ofgtptjt2w0b0cj, Status=Ignorado (Vencimento Futuro)
+2025-01-14 01:43:23,885 - INFO - Arquivo CSV gerado com sucesso: resultado.csv
+2025-01-14 01:43:23,885 - INFO - Encerrando o WebDriver.
