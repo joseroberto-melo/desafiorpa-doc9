@@ -1,0 +1,5 @@
+Número da Fatura,Data de Vencimento,URL da Fatura,Status do Download
+x1j8n9lfkttxqa9zfehcf,30-12-2024,https://rpachallengeocr.azurewebsites.net/invoices/8.jpg,Sucesso
+spvqr32olh33x5xume4ti,02-12-2024,https://rpachallengeocr.azurewebsites.net/invoices/12.jpg,Sucesso
+lx17jb6ytk0znvvppg19oq,09-01-2025,https://rpachallengeocr.azurewebsites.net/invoices/10.jpg,Sucesso
+fg2aot9ofgtptjt2w0b0cj,04-02-2025,https://rpachallengeocr.azurewebsites.net/invoices/1.jpg,Ignorado (Vencimento Futuro)
