@@ -32,7 +32,7 @@ Este script automatiza o processo de extração de dados de uma tabela no site [
 1. Clone o repositório:
    ```bash
    git clone https://github.com/joseroberto-melo/desafiorpa-doc9.git
-   cd nome-do-repositorio
+   cd desafiorpa-doc9
    ```
 2. Instale as dependências:
    ```bash
