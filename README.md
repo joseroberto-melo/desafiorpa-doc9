@@ -47,7 +47,7 @@ Este script automatiza o processo de extração de dados de uma tabela no site [
 ### Execução
 1. Execute o script:
    ```bash
-   python script.py
+   python desafio.py
    ```
 2. Resultados:
    - Os arquivos baixados estarão na pasta `faturas`.
