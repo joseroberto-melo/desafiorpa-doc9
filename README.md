@@ -11,7 +11,7 @@ Este script automatiza o processo de extração de dados de uma tabela no site [
 ### Estrutura do Projeto
 ```plaintext
 /desafio-rpa
-├── script.py             # Código principal
+├── desafio.py             # Código principal
 ├── script_log.log        # Arquivo de log gerado pela execução
 ├── resultado.csv         # CSV gerado com os dados extraídos
 ├── requirements.txt      # Lista de dependências do projeto
