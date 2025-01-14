@@ -92,6 +92,4 @@ Número da Fatura,Data de Vencimento,URL da Fatura,Status do Download
 
 ---
 
-### Contato
-Para dúvidas ou problemas, entre em contato com José Roberto Melo.
 
